@@ -1,2 +1,2 @@
 
-SUCCESS_RESPONSE ={"status":"success"}
+SUCCESS_RESPONSE = {"status": "success"}
